@@ -1,0 +1,14 @@
+# Ignore VS Code workspace files
+.vscode/
+
+# Build artifacts
+*.o
+*.obj
+*.exe
+a.out
+/build/
+bin/
+
+# OS files
+.DS_Store
+Thumbs.db
