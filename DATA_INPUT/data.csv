@@ -1,0 +1,51 @@
+name,calories,category
+Apple,95,Fruit
+Banana,105,Fruit
+Orange,62,Fruit
+Grapes,62,Fruit
+Strawberry,4,Fruit
+Blueberry,1,Fruit
+Watermelon,46,Fruit
+Pineapple,50,Fruit
+Mango,99,Fruit
+Papaya,59,Fruit
+Chicken,165,Protein
+Beef,271,Protein
+Pork,231,Protein
+Egg,78,Protein
+Salmon,208,Protein
+Tuna,132,Protein
+Shrimp,85,Protein
+Tofu,76,Protein
+Lentils,116,Protein
+Turkey,189,Protein
+Rice,206,Carbohydrate
+Bread,79,Carbohydrate
+Pasta,131,Carbohydrate
+Potato,163,Carbohydrate
+Oats,389,Carbohydrate
+Quinoa,120,Carbohydrate
+Corn,86,Carbohydrate
+Sweet Potato,86,Carbohydrate
+Tortilla,104,Carbohydrate
+Muffin,377,Carbohydrate
+Milk,122,Dairy
+Cheese,113,Dairy
+Yogurt,59,Dairy
+Butter,102,Dairy
+Cream,52,Dairy
+Ice Cream,137,Dairy
+Cottage Cheese,98,Dairy
+Sour Cream,60,Dairy
+Kefir,59,Dairy
+Mozzarella,85,Dairy
+Almonds,164,Snack
+Walnuts,185,Snack
+Chips,150,Snack
+Popcorn,55,Snack
+Granola Bar,120,Snack
+Trail Mix,200,Snack
+Peanuts,170,Snack
+Cashews,157,Snack
+Chocolate,210,Snack
+Cookies,160,Snack
